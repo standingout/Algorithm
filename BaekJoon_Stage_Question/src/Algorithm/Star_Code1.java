@@ -1,4 +1,4 @@
-
+/*Star_code1*/
 package Algorithm;
 
 import java.util.Scanner;
